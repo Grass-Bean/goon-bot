@@ -1,0 +1,18 @@
+{
+	"token": "",
+    "clientId": "",
+	"guildId": "",
+    "subreddit": [],
+    "reddit_client_id": "",
+    "reddit_secret_token": "",
+    "reddit_refresh_token": "",
+    "reddit_access_token": "",
+    "ollama_endpoint": "",
+    "prompt_cooldown": 0,
+    "reddit_cooldown": 0,
+    "slots_cooldown": 0,
+    "tts_endpoint": "",
+    "goon_coin_heads": "",
+    "goon_coin_tails": "",
+    "goon_token": ""
+}
